@@ -6,6 +6,10 @@ Aircraft measurements and simulations of biomass burning aerosols over West Afri
 Gerard Capes
 John Smith
 
+# Abstract
+Summarise main findings so others can decide if they want to read on
+or just cite it.
+
 # Introduction
 We present aircraft measurements of BBOA over West Africa.
 
