@@ -1,3 +1,4 @@
+
 # Title
 Aircraft measurements and simulations of biomass burning aerosols over West Africa
 
@@ -23,3 +24,6 @@ away from the source region.
 # Methodology
 We compared our measurements of particle aging with a model simulation.
 The model is detailed in Smith et al 2002.
+
+# Figures
+Figures go in their own section in a draft paper.
