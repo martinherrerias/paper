@@ -31,3 +31,7 @@ mechanism for these particles.
 
 # Figures
 Figures go in their own section in a draft paper.
+
+# Acknowledgements
+
+We would like to thank our EU funding body for their support.
