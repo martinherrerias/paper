@@ -1,10 +1,12 @@
 
+
 # Title
 Aircraft measurements and simulations of biomass burning aerosols over West Africa
 
 # Author
 Gerard Capes
 John Smith
+Douglas Lowe
 
 # Abstract
 Summarise main findings so others can decide if they want to read on
